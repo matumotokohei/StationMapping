@@ -1,0 +1,2 @@
+rootProject.name = "StataionMapping_win"
+include ':app'
